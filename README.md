@@ -71,6 +71,9 @@ ollama serve
 ```
 
 ---
+# Demo Video
+
+[Watch FashionQuiz Demo](./demo/fashionquiz-demo.mp4)
 
 ## Auteur
 
