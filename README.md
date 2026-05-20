@@ -5,6 +5,7 @@ Backend API développé avec FastAPI pour l'application mobile FashionQuiz.
 ## Technologies utilisées
 
 - FastAPI
+- Firebase
 - PostgreSQL
 - Ollama
 - Phi-3
